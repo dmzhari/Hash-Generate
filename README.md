@@ -7,4 +7,4 @@
   - Snefru
   - Gost
   - Fnv
-> Install Your PHP And Run This Code
+- Install Your PHP And Run This Code
